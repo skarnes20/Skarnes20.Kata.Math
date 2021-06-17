@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.223
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skarnes20.Kata.Math.UnitTests", "Skarnes20.Kata.Math.UnitTests\Skarnes20.Kata.Math.UnitTests.csproj", "{45629CA9-3A95-468C-8F0F-A90EA9B37019}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skarnes20.Kata.Math", "Skarnes20.Kata.Math\Skarnes20.Kata.Math.csproj", "{B8DDC7E3-F307-422A-92A9-9060B666607B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45629CA9-3A95-468C-8F0F-A90EA9B37019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45629CA9-3A95-468C-8F0F-A90EA9B37019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45629CA9-3A95-468C-8F0F-A90EA9B37019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45629CA9-3A95-468C-8F0F-A90EA9B37019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DDC7E3-F307-422A-92A9-9060B666607B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DDC7E3-F307-422A-92A9-9060B666607B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DDC7E3-F307-422A-92A9-9060B666607B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DDC7E3-F307-422A-92A9-9060B666607B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D3C05A-1B05-432D-8407-96558D8794E4}
+	EndGlobalSection
+EndGlobal
